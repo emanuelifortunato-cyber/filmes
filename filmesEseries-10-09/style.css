@@ -1,0 +1,18 @@
+.melhoresFilmes {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    background-color: plum;
+    padding: 40px 20px;
+}
+.filme-card {
+    background-color: violet;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0,0, 0.1);
+    width: 280px;
+    font-family: Arial, sans-serif;
+}
+
+.filme-card img{
+    
+}
